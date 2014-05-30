@@ -1,7 +1,8 @@
 int main(){
-    int Stack[5];
+    int i, a[10];
 
-    Stack [5] = 0;
+    for (i = 0; i <= 10; i++)
+        a[i] = 42;
 
     return 0;
 }
