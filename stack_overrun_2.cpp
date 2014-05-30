@@ -1,7 +1,7 @@
 int main(){
-    int Stack[5];
+    int stack[5];
 
-    Stack [5] = 0;
+    stack[5] = 0;
 
     return 0;
 }
